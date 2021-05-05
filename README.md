@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MADHUMITHA.S</h1>
-- 🌱 I’m currently learning **Flutter**
+
 
 - 📫 How to reach me **madhumithasaravana25@gmail.com**
 
