@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MADHUMITHA.S</h1>
-
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **madhumithasaravana25@gmail.com**
 
@@ -16,3 +16,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhumitha2021&show_icons=true&locale=en&layout=compact" alt="madhumitha2021" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhumitha2021&" alt="madhumitha2021" /></p>
+
